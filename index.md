@@ -3,14 +3,14 @@ layout: workshop      # DON'T CHANGE THIS.
 venue: "KAUST Visualization Core Lab" 
 country: "sa"
 language: "en"
-humandate: "29 September 2020"
+humandate: "20 October 2020"
 humantime: "8:30 am  - 5:00 pm"
-startdate: 2020-09-29      
-enddate: 2020-09-29        
+startdate: 2020-10-20      
+enddate: 2020-10-20        
 instructor: ["David R. Pugh"]
 helper: ["Glendon Holst"]
 email: ["david.pugh@kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2020-09-29-kaust-vislab
+collaborative_notes: https://pad.carpentries.org/2020-10-20-kaust-vislab
 eventbrite:
 ---
 
@@ -120,7 +120,7 @@ This block displays the date and links to Google Calendar.
 {% endif %}
 
 <p id="registration">
-  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2020 ">Register Now!</a>
+  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2020_redux ">Register Now!</a>
 </p>
 
 {% comment %}
