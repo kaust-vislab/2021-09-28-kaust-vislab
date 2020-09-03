@@ -1,19 +1,16 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "KAUST Visualization Core Lab" 
-address: "Auditorium 215 (between bldg. 2-3, level 0)"
 country: "sa"
 language: "en"
-latitude: "22.307807"
-longitude: "39.105358"
-humandate: "2 February 2020"
+humandate: "29 September 2020"
 humantime: "8:30 am  - 5:00 pm"
-startdate: 2020-02-02      
-enddate: 2020-02-02        
+startdate: 2020-09-29      
+enddate: 2020-09-29        
 instructor: ["David R. Pugh"]
 helper: ["Glendon Holst"]
 email: ["david.pugh@kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2020-02-02-kaust-vislab
+collaborative_notes: https://pad.carpentries.org/2020-09-29-kaust-vislab
 eventbrite:
 ---
 
@@ -123,7 +120,7 @@ This block displays the date and links to Google Calendar.
 {% endif %}
 
 <p id="registration">
-  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_spring_2020 ">Register Now!</a>
+  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2020 ">Register Now!</a>
 </p>
 
 {% comment %}
@@ -134,30 +131,6 @@ Modify the block below if there are any special requirements.
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
-</p>
-
-{% comment %}
-ACCESSIBILITY
-
-Modify the block below if there are any barriers to accessibility or
-special instructions.
-{% endcomment %}
-<p id="accessibility">
-  <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
-  The workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
 </p>
 
 {% comment %}
