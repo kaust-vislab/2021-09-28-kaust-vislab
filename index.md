@@ -3,14 +3,14 @@ layout: workshop      # DON'T CHANGE THIS.
 venue: "KAUST Visualization Core Lab" 
 country: "sa"
 language: "en"
-humandate: "20 October 2020"
-humantime: "8:30 am  - 5:00 pm"
-startdate: 2020-10-20      
-enddate: 2020-10-20        
-instructor: ["David R. Pugh"]
+humandate: "2 March 2021"
+humantime: "1:00 pm  - 5:00 pm"
+startdate: 2021-03-02      
+enddate: 2020-03-02        
+instructor: ["Dr. David R. Pugh"]
 helper: ["Glendon Holst"]
-email: ["david.pugh@kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2020-10-20-kaust-vislab
+email: ["help@kaust.edu.sa"]
+collaborative_notes: https://pad.carpentries.org/2021-03-02-kaust-vislab
 eventbrite:
 ---
 
@@ -121,16 +121,6 @@ This block displays the date and links to Google Calendar.
 
 <p id="registration">
   <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2020_redux ">Register Now!</a>
-</p>
-
-{% comment %}
-SPECIAL REQUIREMENTS
-
-Modify the block below if there are any special requirements.
-{% endcomment %}
-<p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
 {% comment %}
