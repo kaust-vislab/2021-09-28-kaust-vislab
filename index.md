@@ -9,7 +9,7 @@ startdate: 2021-03-02
 enddate: 2020-03-02        
 instructor: ["Dr. David R. Pugh"]
 helper: ["Glendon Holst"]
-email: ["help@kaust.edu.sa"]
+email: ["help@vis.kaust.edu.sa"]
 collaborative_notes: https://pad.carpentries.org/2021-03-02-kaust-vislab
 eventbrite:
 ---
