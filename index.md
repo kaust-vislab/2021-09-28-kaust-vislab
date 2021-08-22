@@ -3,14 +3,14 @@ layout: workshop      # DON'T CHANGE THIS.
 venue: "KAUST Visualization Core Lab" 
 country: "sa"
 language: "en"
-humandate: "2 March 2021"
+humandate: "28 September 2021"
 humantime: "1:00 pm  - 5:00 pm"
-startdate: 2021-03-02      
-enddate: 2020-03-02        
+startdate: 2021-09-28      
+enddate: 2020-09-28        
 instructor: ["Dr. David R. Pugh"]
-helper: ["Glendon Holst"]
+helper: ["TBD"]
 email: ["help@vis.kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2021-03-02-kaust-vislab
+collaborative_notes: https://pad.carpentries.org/2021-09-28-kaust-vislab
 eventbrite:
 ---
 
@@ -120,7 +120,7 @@ This block displays the date and links to Google Calendar.
 {% endif %}
 
 <p id="registration">
-  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_spring_2021_kaust">KAUST Affiliated</a>, <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_spring_2021_non_kaust">Non-KAUST Affiliated</a>
+  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2021">Register Now!</a>
 </p>
 
 {% comment %}
